@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZ+xbjZgc2n1JnBjzIkPB3jnl6UyHCAtp493Adf8FFbx3uHOz34g4IsQ1edbCH47fEwB8TKD5aohx4LhmFw3QQ==",
+  "success": true,
+  "projectFilePath": "E:\\Проект(практика)\\BotAPI\\BotAPI\\BotAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

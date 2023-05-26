@@ -1,0 +1,108 @@
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\filin\Desktop\егор\ДЗ\3 курс\Учебная практика\BackendAPI\BackendAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BackendAPI-main\BackendAPI-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\API_Project2.0\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\API_Project2.0\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_Project2.0\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_Project2.0\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\API_project_2.0\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\API_project_2.0\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_project_2.0\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_project_2.0\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\API_Project-2.0-main\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\user\Desktop\BotAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\user\Desktop\BotAPI\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BotAPI\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\user\Desktop\BotAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.dll
+D:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.dll
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.dll
+E:\Проект(практика)\BotAPI\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.dll
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Проект(практика)\BotAPI\Domain\obj\Debug\net6.0\ref\Domain.dll
